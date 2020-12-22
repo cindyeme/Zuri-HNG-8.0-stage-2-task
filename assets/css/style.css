@@ -881,11 +881,14 @@ section .container, section .container-fluid {
   line-height: 24px;
   font-size: 14px;
   margin: 0 0 0 68px;
+  word-wrap: normal;
+  word-break: break-all;
 }
 
 .contact .info-box .social-links {
   margin: 5px 0 0 68px;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .contact .info-box .social-links a {
