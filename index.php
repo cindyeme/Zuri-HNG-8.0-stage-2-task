@@ -38,7 +38,7 @@
   <header id="header" class="header-tops">
     <div class="container">
 
-      <h1><a href="index.html">Emerenini Cynthia Ngozi</a></h1>
+      <h1><a href="index.php">Emerenini Cynthia Ngozi</a></h1>
       <h2>I'm a passionate <span class="typed" data-typed-items="Web Designer, Developer, Freelancer, Web Content Writer"></span> from Nigeria</h2>
 
       <nav class="nav-menu  d-lg-block">
