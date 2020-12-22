@@ -78,17 +78,7 @@ img{
   line-height: 1;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-}@media(max-width: 500px){
-  #header h1{
-    font-size: 20px !important;
-} #header h2{
-    font-size: 1rem;
-}#header h2 span{
-    font-size: 18px !important;
-}.skills-content .content-box:not(.jQuery) img{
-  width: 30px !important;
-  height: auto;
-}}
+}
 
 #header h1 a, #header h1 a:hover {
   color: #fff;
@@ -139,7 +129,7 @@ img{
 
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 28px;
   }
   #header .nav-menu a{
     display: none;
@@ -162,6 +152,21 @@ img{
   }
 }
 
+@media(max-width: 500px){
+  #header h1{
+    font-size: 25px !important;
+} #header h2{
+  font-size: 1rem;
+  text-align: left !important;
+  padding: 0 !important;
+} #header h2 span{
+  font-size: 18px !important;
+}#header.header-top h1{
+  font-size: 1.1rem !important;
+}.skills-content .content-box:not(.jQuery) img {
+  width: 30px !important;
+  height: auto;
+}}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -515,7 +520,7 @@ section .container, section .container-fluid {
 .skills-content .content-box.jQuery span{
   top: 75% !important;
 }
-@media(max-width: 768px){
+@media(min-width: 350px){
   .skills-content .col-sm-6{
   -ms-flex: 0 0 50% !important;
   flex: 0 0 50% !important;
