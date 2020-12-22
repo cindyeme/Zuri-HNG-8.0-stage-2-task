@@ -107,7 +107,7 @@
             <div class="col-lg-6">
               <ul>
                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 14th March</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> emereninicynthia.vercel.app</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://emereninicynthiangozi.herokuapp.com</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +234 093 291 1321</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Owerri, Imo State</li>
               </ul>
@@ -282,7 +282,7 @@
             <p>
             <ul>
               <li>Owerri City, Nigeria</li>
-              <li>(+234)093-291-1321</li>
+              <li>+234 093-291-1321</li>
               <li>emereninicynthia@gmail.com</li>
             </ul>
             </p>
