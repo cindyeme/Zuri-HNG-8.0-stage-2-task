@@ -483,38 +483,38 @@
       <div class="row mt-5 no-gutters">
         <div class="col-lg-12">
         <div class="owl-carousel gallery-carousel">
-          <a href="assets/img/gallery/gallery-1.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-1.png" class="img-fluid" alt="gallery_1">
+          <a href="assets/img/gallery/gallery-1.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-1.PNG" class="img-fluid" alt="gallery_1">
           </a>
-          <a href="assets/img/gallery/gallery-2.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-2.png" class="img-fluid" alt="gallery_2">
+          <a href="assets/img/gallery/gallery-2.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-2.PNG" class="img-fluid" alt="gallery_2">
           </a>
-          <a href="assets/img/gallery/gallery-3.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-3.png" class="img-fluid" alt="gallery_3">
+          <a href="assets/img/gallery/gallery-3.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-3.PNG" class="img-fluid" alt="gallery_3">
           </a>
-          <a href="assets/img/gallery/gallery-4.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-4.png" class="img-fluid" alt="gallery_4">
+          <a href="assets/img/gallery/gallery-4.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-4.PNG" class="img-fluid" alt="gallery_4">
           </a>
-          <a href="assets/img/gallery/gallery-5.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-5.png" class="img-fluid" alt="gallery_5">
+          <a href="assets/img/gallery/gallery-5.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-5.PNG" class="img-fluid" alt="gallery_5">
           </a>
-          <a href="assets/img/gallery/gallery-6.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-6.png" class="img-fluid" alt="gallery_6">
+          <a href="assets/img/gallery/gallery-6.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-6.PNG" class="img-fluid" alt="gallery_6">
           </a>
-          <a href="assets/img/gallery/gallery-7.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-7.png" class="img-fluid" alt="gallery_7">
+          <a href="assets/img/gallery/gallery-7.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-7.PNG" class="img-fluid" alt="gallery_7">
           </a>
-          <a href="assets/img/gallery/gallery-8.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-8.png" class="img-fluid" alt="gallery_8">
+          <a href="assets/img/gallery/gallery-8.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-8.PNG" class="img-fluid" alt="gallery_8">
           </a>
-          <a href="assets/img/gallery/gallery-9.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-9.png" class="img-fluid" alt="gallery_9">
+          <a href="assets/img/gallery/gallery-9.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-9.PNG" class="img-fluid" alt="gallery_9">
           </a>
-          <a href="assets/img/gallery/gallery-10.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-10.png" class="img-fluid" alt="gallery_10">
+          <a href="assets/img/gallery/gallery-10.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-10.PNG" class="img-fluid" alt="gallery_10">
           </a>
-          <a href="assets/img/gallery/gallery-11.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-11.png" class="img-fluid" alt="gallery_11">
+          <a href="assets/img/gallery/gallery-11.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-11.PNG" class="img-fluid" alt="gallery_11">
           </a>
           <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
             <img src="assets/img/gallery/gallery-12.png" class="img-fluid" alt="gallery_12">
