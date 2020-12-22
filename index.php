@@ -516,29 +516,29 @@
           <a href="assets/img/gallery/gallery-11.PNG" class="venobox" data-gall="gallery-carousel">
             <img src="assets/img/gallery/gallery-11.PNG" class="img-fluid" alt="gallery_11">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-12.png" class="img-fluid" alt="gallery_12">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-12.PNG" class="img-fluid" alt="gallery_12">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-13.png" class="img-fluid" alt="gallery_13">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-13.PNG" class="img-fluid" alt="gallery_13">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-14.png" class="img-fluid" alt="gallery_14">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-14.PNG" class="img-fluid" alt="gallery_14">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-15.png" class="img-fluid" alt="gallery_15">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-15.PNG" class="img-fluid" alt="gallery_15">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-16.png" class="img-fluid" alt="gallery_16">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-16.PNG" class="img-fluid" alt="gallery_16">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-17.png" class="img-fluid" alt="gallery_17">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-17.PNG" class="img-fluid" alt="gallery_17">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-18.png" class="img-fluid" alt="gallery_18">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-18.PNG" class="img-fluid" alt="gallery_18">
           </a>
-          <a href="assets/img/gallery/gallery-12.png" class="venobox" data-gall="gallery-carousel">
-            <img src="assets/img/gallery/gallery-19.png" class="img-fluid" alt="gallery_19">
+          <a href="assets/img/gallery/gallery-12.PNG" class="venobox" data-gall="gallery-carousel">
+            <img src="assets/img/gallery/gallery-19.PNG" class="img-fluid" alt="gallery_19">
           </a>
         </div>
         </div>
