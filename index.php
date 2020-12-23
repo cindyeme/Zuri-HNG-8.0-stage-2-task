@@ -398,7 +398,7 @@
             </div>
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo">
-                <a href="www.hireus.ng"><img src="assets/img/hireus.png" alt="hireus-logo"></a>
+                <a href="#"><img src="assets/img/hireus.png" alt="hireus-logo"></a>
               </div>
               <div class="img-box">
                 <a href="https://github.com/cindyeme/hireus.ng"><i class="ri-github-fill"></i></a>
