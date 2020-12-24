@@ -302,7 +302,7 @@
             <p>Web Development</p>
           </div>
 
-          <a href="assets/img/cv.jpg" class="border p-2 " data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="right" download>Download CV</a>
+          <a href="assets/img/cv.jpg" class="border p-2 " data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="top" download>Download CV</a>
         </div>
 
         <div class="col-lg-6">
