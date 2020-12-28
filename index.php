@@ -26,7 +26,7 @@
   <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.1/venobox.min.css" rel="stylesheet">
 
-  <!-- Main CSS File -->
+  <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
 
@@ -38,7 +38,7 @@
   <header id="header" class="header-tops">
     <div class="container">
 
-      <h1><a href="index.php">Emerenini Cynthia Ngozi</a></h1>
+      <h1><a href="index.html">Emerenini Cynthia Ngozi</a></h1>
       <h2>I'm a passionate <span class="typed" data-typed-items="Web Designer, Developer, Freelancer, Web Content Writer"></span> from Nigeria</h2>
 
       <nav class="nav-menu  d-lg-block">
@@ -108,8 +108,8 @@
               <ul>
                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 14th March</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://emereninicynthiangozi.herokuapp.com</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +234 093 291 1321</li>
-                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Owerri, Imo State</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +234 903 291 1321</li>
+                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Owerri, Imo State, Nigeria</li>
               </ul>
             </div>
             <div class="col-lg-6">
@@ -136,73 +136,73 @@
 
       <div class="row skills-content">
 
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill html ">
               <img src="assets/img/svg/html5.svg" alt="html" class="img-fluid">
               <span>HTML5</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill css ">
               <img src="assets/img/svg/css-5.svg" alt="css" class="img-fluid">
               <span>CSS</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill bootstrap ">
               <img src="assets/img/svg/bootstrap-4.svg" alt="bootstrap" class="img-fluid">
               <span>Bootstrap</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill javascript ">
               <img src="assets/img/svg/javascript.svg" alt="js" class="img-fluid">
               <span>JavaScript</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill jQuery ">
               <img src="assets/img/svg/jquery-1.svg" alt="jquery" class="img-fluid">
               <span>JQuery</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill react ">
               <img src="assets/img/svg/react-2.svg" alt="react.js" class="img-fluid">
               <span>React Js</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill php ">
               <img src="assets/img/svg/php-1.svg" alt="php" class="img-fluid">
               <span>PHP</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill mysqli ">
               <img src="assets/img/svg/mysql-5.svg" alt="mysql" class="img-fluid">
               <span>MySQL</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill github ">
               <img src="assets/img/svg/github-icon-1.svg" alt="github" class="img-fluid">
               <span>Github</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill google ">
               <img src="assets/img/svg/google-icon.svg" alt="google" class="img-fluid">
               <span>Google Search</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill figma ">
               <img src="assets/img/svg/figma-1.svg" alt="figma" class="img-fluid">
               <span>Figma</span>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-sm-6 ">
+          <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill tailwind ">
               <img src="assets/img/svg/tailwindcss.svg" alt="figma" class="img-fluid">
               <span>TailwindCSS</span>
@@ -229,7 +229,7 @@
             We do recommend Cynthia to anyone. She went the extra mile at every turn and the result is a brand that exceeds our wildest expectations. Cynthia is the girl to hire to help build your projects.
             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
-          <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <img src="assets/img/testimonials/hireus_founder.PNG" class="img-fluid testimonial-img" alt="">
           <h3>Mr. Okwara Franklyn</h3>
           <h4>Ceo &amp; Founder @Hireus.ng</h4>
         </div>
@@ -240,7 +240,7 @@
             I wholeheartedly endorse Cynthia. She is both analytical and creative in her process and takes the time to genuinely understand the business she is collaborating with. Cynthia does not do “off the shelf”.
             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
-          <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+          <img src="assets/img/testimonials/Losintech_founder.jpg" class="img-fluid testimonial-img" alt="">
           <h3>Legend Oscar Innovative Tech.</h3>
           <h4>Ceo &amp; Founder @Losintech.com</h4>
         </div>
@@ -248,12 +248,23 @@
         <div class="testimonial-item">
           <p>
             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            I wanted to hire the best and after looking at several other persons, I knew Cynthia was the perfect girl for the job. She is a true professional. You will not regret investing in Cynthia.
+            I wanted to have the best in our team and looking at several other persons, I knew Cynthia was the perfect girl for the position. She is a true professional. You will not regret investing in her.
             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
           </p>
-          <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+          <img src="assets/img/testimonials/bleautech_founder.jpg" class="img-fluid testimonial-img" alt="">
           <h3>Dominic Eburuoh</h3>
           <h4>Ceo &amp; Founder @Bleautech.org</h4>
+        </div>
+
+        <div class="testimonial-item">
+          <p>
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            I strongly recommend Cynthia to anyone. She has shown great commitment & eagerness in performing whatever that is assigned to her which end results are ranked beyond expectations.
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <img src="assets/img/testimonials/dsc_lead.jpg" class="img-fluid testimonial-img" alt="">
+          <h3>Amadi Austin</h3>
+          <h4>Former DSC Lead IMSU (2020 / 2021)</h4>
         </div>
 
       </div>
@@ -275,14 +286,14 @@
 
       <div class="row">
         <div class="col-lg-6">
-          <h3 class="resume-title">Sumary</h3>
+          <h3 class="resume-title">Summary</h3>
           <div class="resume-item pb-0">
             <h4>Emerenini Cynthia Ngozi</h4>
             <p><em>Enthusiatic, Innovative and purpose-driven Web Designer &amp; Web Content Writer with 1+ years of experience eager to contribute to organizational growth and efficiency  through excellent organizational skills, attention to details, hard work and smart work.</em></p>
             <p>
             <ul>
               <li>Owerri City, Nigeria</li>
-              <li>+234 093-291-1321</li>
+              <li>+234 903-291-1321</li>
               <li>emereninicynthia@gmail.com</li>
             </ul>
             </p>
@@ -301,14 +312,19 @@
             <p><em>Aptech Computer Education</em></p>
             <p>Web Development</p>
           </div>
+          <div class="resume-item">
+            <h4>Certified</h4>
+            <h5>2019</h5>
+            <p><em>Sololearn</em></p>
+            <p>HTML, CSS, JavaScript, PHP, SQL</p>
+          </div>
 
-          <a href="assets/img/cv.jpg" class="border p-2 " data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="top" download>Download CV</a>
         </div>
 
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
-            <h4>Frontend Developer</h4>
+            <h4>Front-End Development</h4>
             <h5>2020</h5>
             <p><em class="border-bottom">Hireus.ng, Nigeria</em></p>
             <p>
@@ -339,9 +355,36 @@
             </ul>
             </p>
           </div>
+          <div class="resume-item">
+            <h4>Core team member</h4>
+            <h5>2020/2020</h5>
+            <p><em class="border-bottom">Developer Students club (DSC), IMSU Chapter</em></p>
+            <p>
+            <ul>
+              <li>Program and Planning.</li>
+            </ul>
+            <p><em class="border-bottom">Bleautech.org, Nigeria</em></p>
+            <p>
+            <ul>
+              <li>Content Developer.</li>
+            </ul>
+            </p>
+            <p><em class="border-bottom">Losintech.com, Nigeria</em></p>
+            <p>
+            <ul>
+              <li>Front-End Developer.</li>
+            </ul>
+            </p>
+          </div>
+        </div>
+        
+        <div class="col-lg-12">
+          <div class="d-flex justify-content-start cv">
+            <a href="assets/img/cv.jpg" class="my_cv" data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="right" download>Download CV</a>
+          </div>
         </div>
       </div>
-
+      
     </div>
   </section><!-- End Resume Section -->
 
@@ -352,7 +395,7 @@
 
       <div class="section-title">
         <h2>Portfolio</h2>
-        <p>My Works</p>
+        <p>My Developments</p>
       </div>
 
       <div class="row portfolio-container mt-5">
@@ -365,7 +408,7 @@
             </div>
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo">
-                <a href="http://libcater.herokuapp.com"><img src="assets/img/libcater.png" alt="libcater-logo"></a>
+                <a href="http://libcater.herokuapp.com"><img src="assets/img/libcater.png" alt="libcater-logo" class="img-fluid"></a>
               </div>
               <div class="img-box">
                 <a href="https://github.com/cindyeme/libraryMgtSystem"><i class="ri-github-fill"></i></a>
@@ -382,7 +425,7 @@
             </div>
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo">
-                <a href="https://losintech.com"><img src="assets/img/losintech-lgo.png" alt="losintech-logo"></a>
+                <a href="https://losintech.com"><img src="assets/img/losintech-lgo.png" alt="losintech-logo" class="img-fluid"></a>
               </div>
               <div class="img-box">
                 <a href="https://github.com/cindyeme/Losintech_website"><i class="ri-github-fill"></i></a>
@@ -398,10 +441,10 @@
             </div>
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo">
-                <a href="#"><img src="assets/img/hireus.png" alt="hireus-logo"></a>
+                <a href="#"><img src="assets/img/hireus.png" alt="hireus-logo" class="img-fluid"></a>
               </div>
               <div class="img-box">
-                <a href="https://github.com/cindyeme/hireus.ng"><i class="ri-github-fill"></i></a>
+                <a href="https://github.com/cindyeme/"><i class="ri-github-fill"></i></a>
               </div>
             </div>
           </div>
@@ -431,7 +474,7 @@
             </div>
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo dsc">
-                <img src="assets/img/dsc-logo.png" alt="hireus-logo">
+                <img src="assets/img/dsc-logo.png" alt="hireus-logo" class="img-fluid">
               </div>
               <div class="d-link position-relative">
                 <a href="https://medium.com/@emereninicynthia/developer-students-club-dsc-imsu-info-session-ec87a97c2df4">View</a>
@@ -448,7 +491,7 @@
             <div class="portfolio-links d-flex justify-content-between">
               <div class="logo">
                 <a href="bleautech.org">
-                  <img src="assets/img/bleauLogo.png" alt="hireus-logo">
+                  <img src="assets/img/bleauLogo.png" alt="hireus-logo" class="img-fluid">
                 </a>
               </div>
               <div class="d-link position-relative">
@@ -608,7 +651,7 @@
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>Call Me</h3>
-            <p>+234 093 291 1321</p>
+            <p>+234 903 291 1321</p>
           </div>
         </div>
       </div>
@@ -618,10 +661,10 @@
 
 
   <div class="credits">
-    <a href="index.html">Emerenini Cynthia N.</a>
+    <a href="index.php">Emerenini Cynthia N.</a>
   </div>
 
-  <!-- Vendor JS Files -->
+  <!-- JS Library Files -->
   <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/@popperjs/core@2"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -631,7 +674,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.1/venobox.min.js"></script>
 
-  <!-- Template Main JS File -->
+  <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
 
 </body>
