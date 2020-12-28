@@ -554,7 +554,7 @@ section .container, section .container-fluid {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
-  height: 90px;
+  height: 90px !important;
   border-radius: 50%;
   margin: -40px 0 0 40px;
   position: relative;
@@ -689,7 +689,7 @@ section .container, section .container-fluid {
   border: 2px solid var(--Primary-color);
 }
 
-.cv a{
+.cv .my_cv{
   background: var(--Primary-color);
   padding: .7rem 1.5rem;
   color: #fff;
@@ -698,14 +698,14 @@ section .container, section .container-fluid {
   -moz-transition: all .3s linear;
   -o-transition: all .3s linear;
   transition: all .3s linear;
-  -webkit-animation: flip 1s linear infinite alternate;
-  -moz-animation: flip 1s linear infinite alternate;
-  -o-animation: flip 1s linear infinite alternate;
-  animation: flip 1s linear infinite alternate;
-}.cv a:hover{
+  -webkit-animation: beat 1s linear infinite alternate;
+  -moz-animation: beat 1s linear infinite alternate;
+  -o-animation: beat 1s linear infinite alternate;
+  animation: beat 1s linear infinite alternate;
+}.cv .my_cv:hover{
   padding: .7rem 1.3rem;
 }
-@-webkit-keyframes flip {
+@-webkit-keyframes beat {
   0% {-webkit-transform: scale(.9);
   -moz-transform: scale(.9);
   -ms-transform: scale(.9);
@@ -715,7 +715,7 @@ section .container, section .container-fluid {
   transform: scale(1.05);
   transform: scale(1.05);
   transform: scale(1.05);}
-}@-moz-keyframes flip {
+}@-moz-keyframes beat {
   0% {-webkit-transform: scale(.9);
   -moz-transform: scale(.9);
   -ms-transform: scale(.9);
@@ -725,7 +725,7 @@ section .container, section .container-fluid {
   transform: scale(1.05);
   transform: scale(1.05);
   transform: scale(1.05);}
-}@keyframes flip {
+}@keyframes beat {
   0% {-webkit-transform: scale(.9);
   -moz-transform: scale(.9);
   -ms-transform: scale(.9);
