@@ -357,7 +357,6 @@
           </div>
           <div class="resume-item">
             <h4>Core team member</h4>
-            <h5>2020/2020</h5>
             <p><em class="border-bottom">Developer Students club (DSC), IMSU Chapter</em></p>
             <p>
             <ul>
