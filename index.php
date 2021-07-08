@@ -269,7 +269,7 @@
           </p>
           <img src="assets/img/testimonials/dsc_lead.jpg" class="img-fluid testimonial-img" alt="">
           <h3>Amadi Austin</h3>
-          <h4>Former DSC Lead IMSU (2020 / 2021)</h4>
+          <h4>Former DSC Lead IMSU (2020)</h4>
         </div>
 
       </div>
