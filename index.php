@@ -30,13 +30,13 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1F4PYZ2VTK"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFDP6CP2HP"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-1F4PYZ2VTK');
+  gtag('config', 'G-CFDP6CP2HP');
   </script>
   
 </head>
