@@ -37,7 +37,8 @@
   gtag('js', new Date());
 
   gtag('config', 'G-CFDP6CP2HP');
-</script>
+  </script>
+  
 </head>
 
 <body>
@@ -111,7 +112,7 @@
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Front-End Developer</h3>
           <p class="font-italic">
-            I am Emerenini Cynthia Ngozi, a design-oriented, detail-oriented, meticulous & innovative front end designer/developer passionate about combining beautiful code with beautiful design. I have 3+ years of experience developing and designing software for the web. 
+            I am Emerenini Cynthia Ngozi, a design-oriented, detail-oriented, meticulous & innovative front end designer/developer passionate about combining beautiful code with beautiful design. I have over 3 years of experience developing and designing software for the web. 
           </p>
           <p class="font-italic pb-4">
             Love learning new & better ways to create seemlesss user engaging interface with clean, efficient & scalable code. I seek to obtain a creative and challenging position that utilizes knowledge of Web Development & Design. I intend to serve you better!!
@@ -277,7 +278,7 @@
           </p>
           <img src="assets/img/testimonials/dsc_lead.jpg" class="img-fluid testimonial-img" alt="">
           <h3>Amadi Austin</h3>
-          <h4>Former DSC Lead IMSU (2020 / 2021)</h4>
+          <h4>Former DSC Lead IMSU (2020)</h4>
         </div>
 
       </div>
