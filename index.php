@@ -29,7 +29,15 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CFDP6CP2HP"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-CFDP6CP2HP');
+</script>
 </head>
 
 <body>
@@ -103,7 +111,7 @@
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Front-End Developer</h3>
           <p class="font-italic">
-            I am Emerenini Cynthia Ngozi, a design-oriented, detail-oriented, meticulous & innovative web designer passionate about combining beautiful code with beautiful design. I have experience developing and designing software for the web. 
+            I am Emerenini Cynthia Ngozi, a design-oriented, detail-oriented, meticulous & innovative front end designer/developer passionate about combining beautiful code with beautiful design. I have 3+ years of experience developing and designing software for the web. 
           </p>
           <p class="font-italic pb-4">
             Love learning new & better ways to create seemlesss user engaging interface with clean, efficient & scalable code. I seek to obtain a creative and challenging position that utilizes knowledge of Web Development & Design. I intend to serve you better!!
@@ -112,7 +120,7 @@
             <div class="col-lg-6">
               <ul>
                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 14th March</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://emereninicynthiangozi.herokuapp.com</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> <span style='font-size: .9rem'>http://emereninicynthiangozi.herokuapp.com</span> </li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> (+234)903-2911-321</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Owerri, Imo State, Nigeria</li>
               </ul>
@@ -150,7 +158,7 @@
           <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
             <div class="content-box skill css ">
               <img src="assets/img/svg/css-5.svg" alt="css" class="img-fluid">
-              <span>CSS</span>
+              <span>CSS3</span>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 col-sm-6 skill-box">
