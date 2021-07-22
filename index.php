@@ -21,6 +21,7 @@
   <!-- CSS Library Files -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://allyoucan.cloud/cdn/icofont/1.0.1/icofont.css" integrity="sha384-jbCTJB16Q17718YM9U22iJkhuGbS0Gd2LjaWb4YJEZToOPmnKDjySVa323U+W7Fv" crossorigin="anonymous">
+
   <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet">
   <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -120,7 +121,7 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 14th March</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> B.Sc. &mdash; Computer Science</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> <span style='font-size: .9rem'>http://emereninicynthiangozi.herokuapp.com</span> </li>
                 <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> (+234)903-2911-321</li>
                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Owerri, Imo State, Nigeria</li>
@@ -128,8 +129,7 @@
             </div>
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 23</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> B.Sc.</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 14th March</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> emereninicynthia@gmail.com</li>
                 <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
               </ul>
@@ -393,7 +393,7 @@
         
         <div class="col-lg-12">
           <div class="d-flex justify-content-start cv">
-            <a href="assets/img/Resume-Emerenini_Cynthia_Ngozi.pdf" class="my_cv" data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="right">Download CV</a>
+            <a href="assets/img/Resume-Emerenini_Cynthia_Ngozi.pdf" class="my_cv" data-toggle="popover" data-content="Download CV" data-trigger="hover" data-placement="right" target="_blank">Download CV</a>
           </div>
         </div>
       </div>
