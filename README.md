@@ -1,4 +1,5 @@
-# portfolio
-My personal website.
+# Intern-application
+A html page that contains an application (resume) to join a team.
 
-https://emereninicynthiangozi.herokuapp.com
+## Print name
+Simple program that prints my name using JavaScript.
